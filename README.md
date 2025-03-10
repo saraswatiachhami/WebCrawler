@@ -18,9 +18,9 @@ This project is a basic web crawler designed to scan websites for common securit
 1. At first, Python should be installed in your computer. You can download it from: python.org
 2. You should installed the required libraries: requests, beautifulsoup4, and re.
 3. Create a folder for your project, e.g: Techincal Assessment and navigate to the folder.
-4. Open a text editor or IDE (e.g., VS Code, PyCharm, or Notepad) and create a python file(e.g: web_crawl.py) in that folder and write the Python code in web_crawl.py .
+4. Open a text editor or IDE (e.g., VS Code, PyCharm, or Notepad) and create a python file(e.g: web_scan_crawler.py) in that folder and write the Python code in web_scan_crawler.py .
 5. Open a Terminal or Command Prompt in the same directory.
-6. Run the code in the terminal by: python web_crawl.py
+6. Run the code in the terminal by: python web_scan_crawler.py
 7. After running thecode, it will prompt you to input a URL to scan. For example: Enter the URL to scan (e.g., https://example.com):
 8. The script will then crawl the website and print out the vulnerability scan report, showing any missing headers, outdated software versions, or improperly configured forms it finds on the website.
 
